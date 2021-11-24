@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zohrehebr
-- 👀 I’m interested in data science topics such as machine learning, neural networks and in brief, statistical modeling. 
-- 🌱 I’m currently learning natural language processing (NLP).
-- 💞️ I’m looking to collaborate on machin learning projects. 
+- 👀 I’m interested in data science topics such as recommender systems, pattern recognition, outlier detection, big data, optimization and in brief, machine learning. 
+- 🌱 I’m currently learning the logic behind different machine learning methods.
+- 💞️ I’m looking to collaborate on machine learning projects. 
 - 📫 How to reach me: z.ebrahimi@gatech.edu
 
 <!---
