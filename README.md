@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @zohrehebr
-- 👀  I’m interested in data science topics such as recommender systems, pattern recognition, outlier detection, big data, optimization and in brief, machine learning. 
-- 🌱  I’m currently learning the logic behind different machine learning methods and high dimensional data analysis.
+- 👀  I’m interested in data science topics such as Natural Language Processing, Recommender Systems, Computer Vision, Pattern Recognition, Outlier Detection, big data, optimization and in brief, machine learning. 
+- 🌱  I’m currently learning the math and logic behind different machine learning algorithms and high dimensional data analytics.
 - 💡  I’m looking to collaborate on machine learning projects. 
 - 📫  How to reach me: zohreh.ebrahimi@outlook.com
 
